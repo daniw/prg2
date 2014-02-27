@@ -17,7 +17,9 @@ public class Repetition
      */
     public static void main(String[] args)
     {
-        // TODO code application logic here
+        School mySchool = new School("hslu");
+        mySchool.enrolStudent("Winz", "Daniel", "ET");
+        mySchool.printStudent();
     }
 
 }

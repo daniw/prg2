@@ -88,7 +88,7 @@ public class LinkedList<T>
         ListNode<T> actualNode = head;
         while (actualNode != null)
         {
-            actualNode.print();
+            actualNode.zprint();
         }
     }
     

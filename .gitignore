@@ -1,3 +1,9 @@
+*.swp
+*.pdf
+*.log
+*.aux
+*.tox
+
 /SW01/Repetition/nbproject/private/
 /SW01/Repetition/build/
 /SW01/LinkedList/nbproject/private/
